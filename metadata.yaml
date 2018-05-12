@@ -1,0 +1,33 @@
+_repo: Submarine-Warfare-of-To-dayBoats-Mystery-Ships_29685
+_version: 0.1.0
+alternative_title: Submarine Warfare of Today
+covers:
+- cover_type: archival
+  image_path: 29685-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Domville-Fife, Charles W. (Charles William)
+    alias: Domville-Fife, Charles William
+    birthdate: 1886
+    gutenberg_agent_id: '34085'
+    url: http://www.gutenberg.org/2009/agents/34085
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2009-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29685'
+  lccn: '20026104'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'V'
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Submarine'
+- !lcsh 'Submarine warfare'
+title: "Submarine Warfare of To-day\r\nHow the Submarine Menace Was Met and Vanquished,\
+  \ with Descriptions of the Inventions and Devices Used, Fast Boats, Mystery Ships,\
+  \ Nets, Aircraft, &c. &c., Also Describing the Selection and Training of the Enormous\
+  \ Personnel Used in This New Branch of the Navy"
+url: http://www.gutenberg.org/ebooks/29685
